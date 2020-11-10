@@ -1,0 +1,7 @@
+.DS_store
+*.zip
+src/img/**
+src/img/**
+.temp
+node_modules
+db_config.txt
