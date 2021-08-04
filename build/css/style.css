@@ -107,7 +107,7 @@ template { display: none; }
 /** Add the correct display in IE 10. */
 [hidden] { display: none; }
 
-body { font-size: 1em; color: #333; line-height: 1.6; }
+body { font-size: 1em; color: #333; line-height: 1.6; background-color: tomato; }
 
 h1 { width: 90%; margin: 20px auto; }
 
